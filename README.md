@@ -4,4 +4,5 @@ Currently, I also work as an Analog Design intern in the American semiconductor 
 
 Besides my research and internship, I love sports at the gym and practicing in cello. 
 
-Check out my [CV](https://github.com/dmitrii-semenov/dmitrii-semenov/blob/main/CV.pdf)
+* Check out my [CV](https://github.com/dmitrii-semenov/dmitrii-semenov/blob/main/CV.pdf)
+* If you have any questions, feel free to write me an email semeno500@gmail.com
