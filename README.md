@@ -3,3 +3,5 @@ Hi) My name is Semenov Dmitrii. I'm a second-year undergraduate student at the B
 Currently, I also work as an Analog Design intern in the American semiconductor company ["onsemi"](https://www.onsemi.com)
 
 Besides my research and internship, I love sports at the gym and practicing in cello. 
+
+Check out my [CV](https://github.com/dmitrii-semenov/dmitrii-semenov/blob/main/CV.pdf)
