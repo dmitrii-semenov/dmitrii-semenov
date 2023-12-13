@@ -10,7 +10,7 @@ Currently, I also work as an Analog Design intern in the American semiconductor 
 I also contributed to the following projects during my study:
 * [Morse Coder and Decoder in VHDL](https://github.com/dmitrii-semenov/morse-coder-decoder), __(best project award)__
 * [Auxiliary Arithmetic Unit (AAU) in VHDL](https://github.com/dmitrii-semenov/VHDL-VLSI) with verification for VLSI
-* [Measuring electricity circuit in C](https://github.com/dmitrii-semenov/measuring_electricity), __in preparation__
+* [Measuring electricity circuit in C](https://github.com/dmitrii-semenov/measuring_electricity)
 
 Besides my research and internship, I love sports at the gym and practicing in cello. 
 
