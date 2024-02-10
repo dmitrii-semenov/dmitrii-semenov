@@ -1,7 +1,7 @@
 Hi) My name is Semenov Dmitrii. I'm a senior undergraduate student at the Brno University of Technology, Department of Radio Electronics. I have been conducting research in electrical engineering since my junior year:
 * Emulating multi-memristive behavior of Silicon Nanowire-based biosensors by using CMOS-based implementations; __accepted to Q1 IEEE Sensors__
 * Comparison of analytical and algorithm-based approaches to the design of constant phase two-port circuit using two bilinear sections; __submitted to Q1 IEEE Transactions on Circuits and Systems__
-* Active Notch filter with high Q-Factor and electronically configurable frequency range; __experimental verification__
+* Active Notch filter with high Q-Factor and electronically configurable frequency range; __the manuscript is in preparation__
 * Programmable test impedance circuit development for biomedical applications; __the manuscript is in preparation__
 * Global optimization of 25 variables function using Least Square Methos (LSM) with further experimental verification; __experimental verification__
 
