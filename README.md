@@ -7,10 +7,10 @@ Hi) My name is Semenov Dmitrii. I'm a senior undergraduate student at the Brno U
 
 Currently, I also work as an Analog Design intern in the American semiconductor company ["onsemi"](https://www.onsemi.com)
 
-I also contributed to the following projects during my study:
+I also contributed to the following projects during my education:
 * [Morse Coder and Decoder in VHDL](https://github.com/dmitrii-semenov/morse-coder-decoder), __(best project award)__
 * [Auxiliary Arithmetic Unit (AAU) in VHDL](https://github.com/dmitrii-semenov/VHDL-VLSI) with verification for VLSI
-* [Measuring electricity circuit in C](https://github.com/dmitrii-semenov/measuring_electricity)
+* [Measuring parameters of an electronic circuit in C](https://github.com/dmitrii-semenov/measuring_electricity)
 
 Besides my research and internship, I love sports at the gym and practicing in cello. 
 
