@@ -1,8 +1,11 @@
-Hi) My name is Semenov Dmitrii. I'm a first-year graduate student at the Brno University of Technology, Department of Radio Electronics. I have been conducting research in electrical engineering since my junior year as a bachelor's student, with outcomes in the following papers:
+Hi) My name is Semenov Dmitrii. I'm a first-year graduate student at the Brno University of Technology, Department of Radio Electronics. I have been conducting research in electrical engineering since my junior year as a bachelor's student, with outcomes in the following published papers:
 * Programmable test impedance circuit development for biomedical applications; __published in International Journal on Circuit Theory and Applications (IJCTA)__, [DOI](https://doi.org/10.1002/cta.4324)
 * Comparison of analytical and algorithm-based approaches to the design of constant phase two-port circuit using two bilinear sections; __published in IEEE Access__, [DOI](https://doi.org/10.1109/ACCESS.2024.3434741)
 * Special Transfer Section for Selective Rejecting and Amplification of Bands in Equalization; __published in IEEE Transactions on Instrumentations and Measurement__, [DOI](https://doi.org/10.1109/TCSI.2024.3408691)
 * Emulating multi-memristive behavior of Silicon Nanowire-based biosensors by using CMOS-based implementations; __published in IEEE Sensors__, [DOI](https://doi.org/10.1109/JSEN.2024.3353669)
+
+Submitted papers:
+* TBD
 
 Currently, I also work as an Analog Design intern in the American semiconductor company ["onsemi"](https://www.onsemi.com)
 
