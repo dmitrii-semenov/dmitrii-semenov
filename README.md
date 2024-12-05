@@ -5,7 +5,8 @@ Hi) My name is Semenov Dmitrii. I'm a first-year graduate student at the Brno Un
 * Emulating multi-memristive behavior of Silicon Nanowire-based biosensors by using CMOS-based implementations; __published in IEEE Sensors__, [DOI](https://doi.org/10.1109/JSEN.2024.3353669)
 
 Submitted papers:
-* TBD
+* Novel second-order transfer section for frequency selective response generation in comb filters; __submitted to IEEE Transactions on Instrumentation and Measurement__
+* Gate-controlled 3.3V CMOS transistor-based constant phase element design; __submitted to 2025 IEEE International Symposium on Circuits and Systems, London, UK__
 
 Currently, I also work as an Analog Design intern in the American semiconductor company ["onsemi"](https://www.onsemi.com)
 
